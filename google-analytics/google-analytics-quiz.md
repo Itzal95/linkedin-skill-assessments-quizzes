@@ -301,7 +301,7 @@
 - [ ] User > Hit > Session
 
 #### Q50. Which feature would allow you to navigate between multiple reports while comparing the data collected for visitors in Los Angeles to the data for visitors in London?
-- [ ] segments
+- [x] segments
 - [ ] filters
 - [ ] views
 - [ ] dimensions
